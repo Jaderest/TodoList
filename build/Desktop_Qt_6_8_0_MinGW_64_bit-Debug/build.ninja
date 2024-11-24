@@ -97,6 +97,22 @@ build CMakeFiles/Todo.dir/categorymanagerdialog.cpp.obj: CXX_COMPILER__Todo_unsc
   OBJECT_DIR = CMakeFiles\Todo.dir
   OBJECT_FILE_DIR = CMakeFiles\Todo.dir
 
+build CMakeFiles/Todo.dir/taskreminder.cpp.obj: CXX_COMPILER__Todo_unscanned_Debug D$:/Qt/Project/Todo/taskreminder.cpp || cmake_object_order_depends_target_Todo
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\Todo.dir\taskreminder.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -ID:/Qt/Project/Todo/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Todo_autogen/include -isystem D:/Qt/6.8.0/mingw_64/include/QtCore -isystem D:/Qt/6.8.0/mingw_64/include -isystem D:/Qt/6.8.0/mingw_64/mkspecs/win32-g++ -isystem D:/Qt/6.8.0/mingw_64/include/QtWidgets -isystem D:/Qt/6.8.0/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\Todo.dir
+  OBJECT_FILE_DIR = CMakeFiles\Todo.dir
+
+build CMakeFiles/Todo.dir/reminderpopup.cpp.obj: CXX_COMPILER__Todo_unscanned_Debug D$:/Qt/Project/Todo/reminderpopup.cpp || cmake_object_order_depends_target_Todo
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\Todo.dir\reminderpopup.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -ID:/Qt/Project/Todo/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Todo_autogen/include -isystem D:/Qt/6.8.0/mingw_64/include/QtCore -isystem D:/Qt/6.8.0/mingw_64/include -isystem D:/Qt/6.8.0/mingw_64/mkspecs/win32-g++ -isystem D:/Qt/6.8.0/mingw_64/include/QtWidgets -isystem D:/Qt/6.8.0/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\Todo.dir
+  OBJECT_FILE_DIR = CMakeFiles\Todo.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Todo
@@ -105,7 +121,7 @@ build CMakeFiles/Todo.dir/categorymanagerdialog.cpp.obj: CXX_COMPILER__Todo_unsc
 #############################################
 # Link the executable Todo.exe
 
-build Todo.exe: CXX_EXECUTABLE_LINKER__Todo_Debug CMakeFiles/Todo.dir/Todo_autogen/mocs_compilation.cpp.obj CMakeFiles/Todo.dir/main.cpp.obj CMakeFiles/Todo.dir/mainwindow.cpp.obj CMakeFiles/Todo.dir/taskeditor.cpp.obj CMakeFiles/Todo.dir/categorymanager.cpp.obj CMakeFiles/Todo.dir/categorymanagerdialog.cpp.obj | D$:/Qt/6.8.0/mingw_64/lib/libQt6Widgets.a D$:/Qt/6.8.0/mingw_64/lib/libQt6Gui.a D$:/Qt/6.8.0/mingw_64/lib/libQt6Core.a D$:/Qt/6.8.0/mingw_64/lib/libQt6EntryPoint.a || Todo_autogen Todo_autogen_timestamp_deps
+build Todo.exe: CXX_EXECUTABLE_LINKER__Todo_Debug CMakeFiles/Todo.dir/Todo_autogen/mocs_compilation.cpp.obj CMakeFiles/Todo.dir/main.cpp.obj CMakeFiles/Todo.dir/mainwindow.cpp.obj CMakeFiles/Todo.dir/taskeditor.cpp.obj CMakeFiles/Todo.dir/categorymanager.cpp.obj CMakeFiles/Todo.dir/categorymanagerdialog.cpp.obj CMakeFiles/Todo.dir/taskreminder.cpp.obj CMakeFiles/Todo.dir/reminderpopup.cpp.obj | D$:/Qt/6.8.0/mingw_64/lib/libQt6Widgets.a D$:/Qt/6.8.0/mingw_64/lib/libQt6Gui.a D$:/Qt/6.8.0/mingw_64/lib/libQt6Core.a D$:/Qt/6.8.0/mingw_64/lib/libQt6EntryPoint.a || Todo_autogen Todo_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = D:/Qt/6.8.0/mingw_64/lib/libQt6Widgets.a  D:/Qt/6.8.0/mingw_64/lib/libQt6Gui.a  D:/Qt/6.8.0/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  D:/Qt/6.8.0/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

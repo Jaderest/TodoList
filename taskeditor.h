@@ -14,9 +14,11 @@ class TaskEditor : public QDialog
 {
     Q_OBJECT
 public:
-    TaskEditor(QWidget *parent = nullptr);
+    TaskEditor(QWidget *parent = nullptr, const QStringList &texts = {});
 
     Task getTask() const;
+
+    void setTask(const Task &task);
 
 private:
     QLineEdit *contentEdit{};

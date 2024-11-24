@@ -8,6 +8,7 @@ struct Task {
     QString content;
     QDateTime dueTime;
     QString type; // 任务性质
+    bool finished = false;
 };
 
 #endif // TASK_H

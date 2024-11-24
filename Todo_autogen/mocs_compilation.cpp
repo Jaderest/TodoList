@@ -2,4 +2,6 @@
 #include "EWIEGA46WW/moc_categorymanager.cpp"
 #include "EWIEGA46WW/moc_categorymanagerdialog.cpp"
 #include "EWIEGA46WW/moc_mainwindow.cpp"
+#include "EWIEGA46WW/moc_reminderpopup.cpp"
 #include "EWIEGA46WW/moc_taskeditor.cpp"
+#include "EWIEGA46WW/moc_taskreminder.cpp"

@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-b8bce12fa0ef41f4aad5.json",
+					"jsonFile" : "directory-.-Debug-58c673013cc54b9c7d4f.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,14 +44,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Todo::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Todo-Debug-e9ee4f541d45b4abc0b0.json",
+					"jsonFile" : "target-Todo-Debug-c7ddd79c4f0cb755c3d7.json",
 					"name" : "Todo",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "Todo_autogen::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Todo_autogen-Debug-823587153ad718514dc4.json",
+					"jsonFile" : "target-Todo_autogen-Debug-51b7a049fbe6163310b2.json",
 					"name" : "Todo_autogen",
 					"projectIndex" : 0
 				},
@@ -68,7 +68,7 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Qt/Project/Todo",
+		"build" : "D:/Qt/Project/Todo/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
 		"source" : "D:/Qt/Project/Todo"
 	},
 	"version" : 
