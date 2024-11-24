@@ -2,13 +2,31 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QListWidget>
+#include <QPushButton>
+#include <QVBoxLayout>
+#include <QList>
 
-class MainWindow : public QMainWindow
-{
+#include "taskeditor.h"
+
+class MainWindow : public QMainWindow {
     Q_OBJECT
 
 public:
     MainWindow(QWidget *parent = nullptr);
-    ~MainWindow();
+
+private slots:
+    void openTaskEditor();
+
+private:
+    QList<Task> tasks;            // 所有任务
+    QList<Task> filteredTasks;    // 当前筛选后的任务
+    QListWidget *taskListWidget;  // 右侧任务显示
+    QListWidget *categoryListWidget; // 左侧分类框
+    // QString currentCategory;      // 当前分类
+
+    void updateTaskList(QList<Task> &tasks);
+    void filterTasks(const QString &category);
 };
+
 #endif // MAINWINDOW_H

@@ -22,6 +22,8 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(Todo
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        task.h
+        taskeditor.h taskeditor.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET Todo APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

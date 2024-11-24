@@ -1,9 +1,9 @@
 # ninja log v6
 3	1251	7541403600524569	Todo_autogen/timestamp	dac3297d21034df1
+1264	3202	7541403602356722	CMakeFiles/Todo.dir/Todo_autogen/mocs_compilation.cpp.obj	81dfc825498623b0
 3	1251	7541403600524569	Todo_autogen/mocs_compilation.cpp	dac3297d21034df1
+1521	3486	7541403604916403	CMakeFiles/Todo.dir/mainwindow.cpp.obj	47b75c1cb6bc6744
+3512	4022	7541403624817939	Todo.exe	297d257451af8f65
 3	1251	7541403600524569	D:/Qt/Project/Todo/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Todo_autogen/timestamp	dac3297d21034df1
 3	1251	7541403600524569	D:/Qt/Project/Todo/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Todo_autogen/mocs_compilation.cpp	dac3297d21034df1
-1264	3202	7541403602356722	CMakeFiles/Todo.dir/Todo_autogen/mocs_compilation.cpp.obj	81dfc825498623b0
-1521	3486	7541403604916403	CMakeFiles/Todo.dir/mainwindow.cpp.obj	47b75c1cb6bc6744
 1366	3511	7541403603361790	CMakeFiles/Todo.dir/main.cpp.obj	b23b36e4fe4dbd0a
-3512	4022	7541403624817939	Todo.exe	297d257451af8f65

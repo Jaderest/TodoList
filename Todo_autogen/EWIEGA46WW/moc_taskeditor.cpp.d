@@ -1,7 +1,6 @@
-D:/Qt/Project/Todo/Todo_autogen/EWIEGA46WW/moc_mainwindow.cpp: D:/Qt/Project/Todo/mainwindow.h \
+D:/Qt/Project/Todo/Todo_autogen/EWIEGA46WW/moc_taskeditor.cpp: D:/Qt/Project/Todo/taskeditor.h \
   D:/Qt/Project/Todo/Todo_autogen/moc_predefs.h \
   D:/Qt/6.8.0/mingw_64/include/QtCore/QDateTime \
-  D:/Qt/6.8.0/mingw_64/include/QtCore/QList \
   D:/Qt/6.8.0/mingw_64/include/QtCore/QObject \
   D:/Qt/6.8.0/mingw_64/include/QtCore/QString \
   D:/Qt/6.8.0/mingw_64/include/QtCore/q20functional.h \
@@ -53,7 +52,6 @@ D:/Qt/Project/Todo/Todo_autogen/EWIEGA46WW/moc_mainwindow.cpp: D:/Qt/Project/Tod
   D:/Qt/6.8.0/mingw_64/include/QtCore/qhash.h \
   D:/Qt/6.8.0/mingw_64/include/QtCore/qhashfunctions.h \
   D:/Qt/6.8.0/mingw_64/include/QtCore/qiodevicebase.h \
-  D:/Qt/6.8.0/mingw_64/include/QtCore/qitemselectionmodel.h \
   D:/Qt/6.8.0/mingw_64/include/QtCore/qiterable.h \
   D:/Qt/6.8.0/mingw_64/include/QtCore/qiterator.h \
   D:/Qt/6.8.0/mingw_64/include/QtCore/qlatin1stringview.h \
@@ -167,14 +165,10 @@ D:/Qt/Project/Todo/Todo_autogen/EWIEGA46WW/moc_mainwindow.cpp: D:/Qt/Project/Tod
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/QDateTimeEdit \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/QDialog \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/QLineEdit \
-  D:/Qt/6.8.0/mingw_64/include/QtWidgets/QListWidget \
-  D:/Qt/6.8.0/mingw_64/include/QtWidgets/QMainWindow \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/QPushButton \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/QVBoxLayout \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qabstractbutton.h \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qabstractitemdelegate.h \
-  D:/Qt/6.8.0/mingw_64/include/QtWidgets/qabstractitemview.h \
-  D:/Qt/6.8.0/mingw_64/include/QtWidgets/qabstractscrollarea.h \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qabstractslider.h \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qabstractspinbox.h \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qboxlayout.h \
@@ -186,9 +180,6 @@ D:/Qt/Project/Todo/Todo_autogen/EWIEGA46WW/moc_mainwindow.cpp: D:/Qt/Project/Tod
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qlayout.h \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qlayoutitem.h \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qlineedit.h \
-  D:/Qt/6.8.0/mingw_64/include/QtWidgets/qlistview.h \
-  D:/Qt/6.8.0/mingw_64/include/QtWidgets/qlistwidget.h \
-  D:/Qt/6.8.0/mingw_64/include/QtWidgets/qmainwindow.h \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qpushbutton.h \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qrubberband.h \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qsizepolicy.h \
@@ -202,7 +193,6 @@ D:/Qt/Project/Todo/Todo_autogen/EWIEGA46WW/moc_mainwindow.cpp: D:/Qt/Project/Tod
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qwidget.h \
   D:/Qt/Project/Todo/task.h \
-  D:/Qt/Project/Todo/taskeditor.h \
   D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
   D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
   D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \

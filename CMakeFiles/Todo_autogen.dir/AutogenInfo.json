@@ -269,6 +269,13 @@
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
 			null
+		],
+		[ "D:/Qt/Project/Todo/task.h", "MU", "EWIEGA46WW/moc_task.cpp", null ],
+		[
+			"D:/Qt/Project/Todo/taskeditor.h",
+			"MU",
+			"EWIEGA46WW/moc_taskeditor.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -343,7 +350,8 @@
 	"SOURCES" : 
 	[
 		[ "D:/Qt/Project/Todo/main.cpp", "MU", null ],
-		[ "D:/Qt/Project/Todo/mainwindow.cpp", "MU", null ]
+		[ "D:/Qt/Project/Todo/mainwindow.cpp", "MU", null ],
+		[ "D:/Qt/Project/Todo/taskeditor.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
