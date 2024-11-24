@@ -265,6 +265,18 @@
 	"HEADERS" : 
 	[
 		[
+			"D:/Qt/Project/Todo/categorymanager.h",
+			"MU",
+			"EWIEGA46WW/moc_categorymanager.cpp",
+			null
+		],
+		[
+			"D:/Qt/Project/Todo/categorymanagerdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_categorymanagerdialog.cpp",
+			null
+		],
+		[
 			"D:/Qt/Project/Todo/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
@@ -349,6 +361,8 @@
 	"SETTINGS_FILE" : "D:/Qt/Project/Todo/CMakeFiles/Todo_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "D:/Qt/Project/Todo/categorymanager.cpp", "MU", null ],
+		[ "D:/Qt/Project/Todo/categorymanagerdialog.cpp", "MU", null ],
 		[ "D:/Qt/Project/Todo/main.cpp", "MU", null ],
 		[ "D:/Qt/Project/Todo/mainwindow.cpp", "MU", null ],
 		[ "D:/Qt/Project/Todo/taskeditor.cpp", "MU", null ]

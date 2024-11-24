@@ -35,6 +35,7 @@ Todo_autogen/timestamp: \
 	D:/Qt/6.8.0/mingw_64/include/QtCore/QList \
 	D:/Qt/6.8.0/mingw_64/include/QtCore/QObject \
 	D:/Qt/6.8.0/mingw_64/include/QtCore/QString \
+	D:/Qt/6.8.0/mingw_64/include/QtCore/QStringList \
 	D:/Qt/6.8.0/mingw_64/include/QtCore/q20functional.h \
 	D:/Qt/6.8.0/mingw_64/include/QtCore/q20iterator.h \
 	D:/Qt/6.8.0/mingw_64/include/QtCore/q20memory.h \
@@ -197,6 +198,7 @@ Todo_autogen/timestamp: \
 	D:/Qt/6.8.0/mingw_64/include/QtWidgets/QComboBox \
 	D:/Qt/6.8.0/mingw_64/include/QtWidgets/QDateTimeEdit \
 	D:/Qt/6.8.0/mingw_64/include/QtWidgets/QDialog \
+	D:/Qt/6.8.0/mingw_64/include/QtWidgets/QHBoxLayout \
 	D:/Qt/6.8.0/mingw_64/include/QtWidgets/QLineEdit \
 	D:/Qt/6.8.0/mingw_64/include/QtWidgets/QListWidget \
 	D:/Qt/6.8.0/mingw_64/include/QtWidgets/QMainWindow \
@@ -375,6 +377,10 @@ Todo_autogen/timestamp: \
 	D:/Qt/Project/Todo/CMakeFiles/3.30.5/CMakeSystem.cmake \
 	D:/Qt/Project/Todo/CMakeLists.txt \
 	D:/Qt/Project/Todo/Todo_autogen/moc_predefs.h \
+	D:/Qt/Project/Todo/categorymanager.cpp \
+	D:/Qt/Project/Todo/categorymanager.h \
+	D:/Qt/Project/Todo/categorymanagerdialog.cpp \
+	D:/Qt/Project/Todo/categorymanagerdialog.h \
 	D:/Qt/Project/Todo/main.cpp \
 	D:/Qt/Project/Todo/mainwindow.cpp \
 	D:/Qt/Project/Todo/mainwindow.h \

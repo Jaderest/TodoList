@@ -4,6 +4,7 @@ D:/Qt/Project/Todo/Todo_autogen/EWIEGA46WW/moc_mainwindow.cpp: D:/Qt/Project/Tod
   D:/Qt/6.8.0/mingw_64/include/QtCore/QList \
   D:/Qt/6.8.0/mingw_64/include/QtCore/QObject \
   D:/Qt/6.8.0/mingw_64/include/QtCore/QString \
+  D:/Qt/6.8.0/mingw_64/include/QtCore/QStringList \
   D:/Qt/6.8.0/mingw_64/include/QtCore/q20functional.h \
   D:/Qt/6.8.0/mingw_64/include/QtCore/q20iterator.h \
   D:/Qt/6.8.0/mingw_64/include/QtCore/q20memory.h \
@@ -166,6 +167,7 @@ D:/Qt/Project/Todo/Todo_autogen/EWIEGA46WW/moc_mainwindow.cpp: D:/Qt/Project/Tod
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/QComboBox \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/QDateTimeEdit \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/QDialog \
+  D:/Qt/6.8.0/mingw_64/include/QtWidgets/QHBoxLayout \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/QLineEdit \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/QListWidget \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/QMainWindow \
@@ -201,6 +203,9 @@ D:/Qt/Project/Todo/Todo_autogen/EWIEGA46WW/moc_mainwindow.cpp: D:/Qt/Project/Tod
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qtwidgetsexports.h \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
   D:/Qt/6.8.0/mingw_64/include/QtWidgets/qwidget.h \
+  D:/Qt/Project/Todo/CategoryManager.h \
+  D:/Qt/Project/Todo/categorymanager.h \
+  D:/Qt/Project/Todo/categorymanagerdialog.h \
   D:/Qt/Project/Todo/task.h \
   D:/Qt/Project/Todo/taskeditor.h \
   D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
