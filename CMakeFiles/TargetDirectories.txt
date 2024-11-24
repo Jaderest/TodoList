@@ -1,0 +1,9 @@
+D:/Qt/Project/Todo/CMakeFiles/Todo.dir
+D:/Qt/Project/Todo/CMakeFiles/edit_cache.dir
+D:/Qt/Project/Todo/CMakeFiles/rebuild_cache.dir
+D:/Qt/Project/Todo/CMakeFiles/list_install_components.dir
+D:/Qt/Project/Todo/CMakeFiles/install.dir
+D:/Qt/Project/Todo/CMakeFiles/install/local.dir
+D:/Qt/Project/Todo/CMakeFiles/install/strip.dir
+D:/Qt/Project/Todo/CMakeFiles/Todo_autogen_timestamp_deps.dir
+D:/Qt/Project/Todo/CMakeFiles/Todo_autogen.dir
